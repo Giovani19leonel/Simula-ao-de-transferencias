@@ -1,0 +1,16 @@
+C:\Users\Giovani\Documents\GitHub\Simula-ao-de-transferencias\bin\Debug\net5.0\Simula-ao-de-transferencias.exe
+C:\Users\Giovani\Documents\GitHub\Simula-ao-de-transferencias\bin\Debug\net5.0\Simula-ao-de-transferencias.deps.json
+C:\Users\Giovani\Documents\GitHub\Simula-ao-de-transferencias\bin\Debug\net5.0\Simula-ao-de-transferencias.runtimeconfig.json
+C:\Users\Giovani\Documents\GitHub\Simula-ao-de-transferencias\bin\Debug\net5.0\Simula-ao-de-transferencias.runtimeconfig.dev.json
+C:\Users\Giovani\Documents\GitHub\Simula-ao-de-transferencias\bin\Debug\net5.0\Simula-ao-de-transferencias.dll
+C:\Users\Giovani\Documents\GitHub\Simula-ao-de-transferencias\bin\Debug\net5.0\ref\Simula-ao-de-transferencias.dll
+C:\Users\Giovani\Documents\GitHub\Simula-ao-de-transferencias\bin\Debug\net5.0\Simula-ao-de-transferencias.pdb
+C:\Users\Giovani\Documents\GitHub\Simula-ao-de-transferencias\obj\Debug\net5.0\Simula-ao-de-transferencias.csprojAssemblyReference.cache
+C:\Users\Giovani\Documents\GitHub\Simula-ao-de-transferencias\obj\Debug\net5.0\Simula-ao-de-transferencias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giovani\Documents\GitHub\Simula-ao-de-transferencias\obj\Debug\net5.0\Simula-ao-de-transferencias.AssemblyInfoInputs.cache
+C:\Users\Giovani\Documents\GitHub\Simula-ao-de-transferencias\obj\Debug\net5.0\Simula-ao-de-transferencias.AssemblyInfo.cs
+C:\Users\Giovani\Documents\GitHub\Simula-ao-de-transferencias\obj\Debug\net5.0\Simula-ao-de-transferencias.csproj.CoreCompileInputs.cache
+C:\Users\Giovani\Documents\GitHub\Simula-ao-de-transferencias\obj\Debug\net5.0\Simula-ao-de-transferencias.dll
+C:\Users\Giovani\Documents\GitHub\Simula-ao-de-transferencias\obj\Debug\net5.0\ref\Simula-ao-de-transferencias.dll
+C:\Users\Giovani\Documents\GitHub\Simula-ao-de-transferencias\obj\Debug\net5.0\Simula-ao-de-transferencias.pdb
+C:\Users\Giovani\Documents\GitHub\Simula-ao-de-transferencias\obj\Debug\net5.0\Simula-ao-de-transferencias.genruntimeconfig.cache
